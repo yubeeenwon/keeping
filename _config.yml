@@ -1,10 +1,2 @@
 title: Keeping
 description: 저장한 콘텐츠를 AI가 분류하고 다시 꺼내주는 앱
-theme: jekyll-theme-minimal
-permalink: /:basename
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default

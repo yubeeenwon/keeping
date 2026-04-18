@@ -1,3 +1,9 @@
+---
+layout: default
+title: 이용약관
+permalink: /terms
+---
+
 # Keeping 이용약관
 
 **시행일: 2026년 4월 18일**

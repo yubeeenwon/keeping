@@ -3,7 +3,7 @@ layout: default
 title: Keeping
 ---
 
-<img src="./assets/logo.svg" alt="Keeping" style="height: 56px; margin-bottom: 24px;">
+# Keeping
 
 저장한 콘텐츠를 AI가 분류하고 다시 꺼내주는 앱.
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: 개인정보 처리방침
+permalink: /privacy
+---
+
 # Keeping 개인정보 처리방침
 
 **시행일: 2026년 4월 18일**
